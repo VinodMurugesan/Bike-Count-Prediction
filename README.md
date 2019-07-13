@@ -1,0 +1,2 @@
+# Bike-Count-Prediction
+The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings .I need to design a system that predicts the bike count based on environmental and seasonal settings .Because it is important to estimate the bike count so that the company can plan accordingly as it changes based on environmental and seasonal settings.
